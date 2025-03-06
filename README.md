@@ -1,10 +1,10 @@
 # Praktikum_AI_Workflow
 Yaitu proyek yang bertujuan untuk memahami alur kerja pengolahan data dan implementasi model AI menggunakan Google Colab dan GitHub, seperti:
 
--Membuat dataset penjualan dalam format CSV.
--Melakukan pembersihan dan transformasi data menggunakan pandas.
--Melatih model AI menggunakan Decision Tree Classifier dari Scikit-Learn.
--Mengunggah hasil analisis dan model ke GitHub sebagai dokumentasi.
+1. Membuat dataset penjualan dalam format CSV.
+2. Melakukan pembersihan dan transformasi data menggunakan pandas.
+3. Melatih model AI menggunakan Decision Tree Classifier dari Scikit-Learn.
+4. Mengunggah hasil analisis dan model ke GitHub sebagai dokumentasi.
 
 Praktikum ini membantu memahami integrasi antara eksplorasi data, pembelajaran mesin, dan penggunaan GitHub dalam alur kerja AI.
 
